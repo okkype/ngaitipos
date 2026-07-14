@@ -123,7 +123,7 @@ ngaitipos is a ... (provide a brief overview of the project's purpose and functi
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/ngaitipos.git
+git clone https://github.com/okkype/ngaitipos.git
 cd ngaitipos
 
 # Install dependencies
