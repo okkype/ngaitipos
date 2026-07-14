@@ -48,7 +48,7 @@ The application is static and does not require a build step. To run it locally:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/ngaitipos.git
+git clone https://github.com/okkype/ngaitipos.git
 cd ngaitipos
 
 # Serve the directory with any static HTTP server (e.g., Python, http‑server)
